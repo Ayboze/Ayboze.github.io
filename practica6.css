@@ -1,0 +1,48 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 0;
+    padding: 0;
+    background-color: rgb(118, 160, 129);
+}
+
+/* Encabezado */
+header {
+    background-color: #bdd8be;
+    color: rgb(50, 85, 55);
+    padding: 25px;
+    text-align:center;
+    
+}
+
+/* Navegación */
+nav ol li a {
+    list-style:none;
+    padding:  25px;
+    text-align: center;
+}
+
+nav ol li a {
+    display: inline-block;
+    margin: 0rem;
+    text-align: left;
+}
+
+nav ol li a {
+    color: #065721;
+    text-decoration: none;
+    text-align: left;
+}
+
+/* Secciones */
+section {
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 50%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px rgba(71, 107, 77, 0.1)
+}
+footer{
+    text-align: center;
+}
